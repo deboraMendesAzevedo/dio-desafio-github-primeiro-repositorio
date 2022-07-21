@@ -1,2 +1,7 @@
 para copiar Ctrl Insert
 para colar Shift Insert
+
+git status > para verficar a situação ou se tem algo para ser atualisado
+git add . ou git -A > para add todos os arquivos
+git commit -m " comentário commit" > para incluir do local para o Github
+git push origin main > para incluir o repositório
